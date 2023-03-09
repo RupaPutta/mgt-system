@@ -21,3 +21,7 @@ tkang@ucmo.edu,
 ## Project Status
 DEVELOPMENT IN PROGRESS :construction:
 
+## Contributing
+
+Please see our [CONTRIBUTING](CONTRIBUTING.md) document for more information.
+
