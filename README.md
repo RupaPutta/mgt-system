@@ -18,3 +18,6 @@ tkang@ucmo.edu,
 6. Sai Shruthi GADDAM, SXG11430@UCMO.EDU, 700741143
 7. Praneetha Vegiraju, PXV25270@UCMO.EDU, 700732527
 
+## Project Status
+DEVELOPMENT IN PROGRESS :construction:
+
