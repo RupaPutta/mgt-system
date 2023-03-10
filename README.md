@@ -24,6 +24,9 @@ DEVELOPMENT IN PROGRESS :construction:
 ## Architecture Diagram
 ![architecture-diagram.png](images%2Farchitecture-diagram.png)
 
+## Prototype Diagram (Sample UI Page)
+![prototype.png](images%2Fprototype.png)
+
 ## Contributing
 
 Please see our [CONTRIBUTING](CONTRIBUTING.md) document for more information.
