@@ -21,6 +21,9 @@ tkang@ucmo.edu,
 ## Project Status
 DEVELOPMENT IN PROGRESS :construction:
 
+## Architecture Diagram
+![architecture-diagram.png](images%2Farchitecture-diagram.png)
+
 ## Contributing
 
 Please see our [CONTRIBUTING](CONTRIBUTING.md) document for more information.
