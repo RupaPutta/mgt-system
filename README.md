@@ -24,8 +24,21 @@ DEVELOPMENT IN PROGRESS :construction:
 ## Architecture Diagram
 ![architecture-diagram.png](images%2Farchitecture-diagram.png)
 
-## Prototype Diagram (Sample UI Page)
-![prototype.png](images%2Fprototype.png)
+## [Prototype](prototype/employee-management-system-prototype.rp) Diagram
+### Landing Page Prototype
+![landing-page.png](images%2Flanding-page.png)
+
+### Add Employee Prototype
+![add-employee.png](images%2Fadd-employee.png)
+
+### Search Employee Prototype
+![search-employee.png](images%2Fsearch-employee.png)
+
+### Update Employee Prototype
+![update-employee.png](images%2Fupdate-employee.png)
+
+### Delete Employee Prototype
+![delete-employee.png](images%2Fdelete-employee.png)
 
 ## Contributing
 
